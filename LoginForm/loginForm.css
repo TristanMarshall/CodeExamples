@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+
+body {
+  background-color: #999999;
+}
+
+.all {
+  background-color: grey;
+  width: 40%;
+  text-align: center;
+  margin-left: 30%;
+  border: 1px solid black;
+}
+
+.signInDiv {
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-bottom: 5%;
+  font-family:'Open Sans',sans-serif;
+}
+
+.email {
+  width: 70%;
+  margin-bottom: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border: 1px solid black;
+}
+
+.sb {
+  border: none;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  width: 70%;
+  margin-bottom: 5%;
+  background-color: black;
+  color: white;
+}
